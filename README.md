@@ -5,7 +5,9 @@ https://www.kaggle.com/code/atlkor/spacy-ner
 ### Custom NER
 https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3.ipynb
 
+### Flair 
 
+https://www.analyticsvidhya.com/blog/2019/02/flair-nlp-library-python/
 
 
 ## AWS Partner Certification Readiness:
