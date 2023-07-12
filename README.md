@@ -7,7 +7,9 @@ https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3
 
 ### Flair 
 
-https://www.analyticsvidhya.com/blog/2019/02/flair-nlp-library-python/
+- https://www.analyticsvidhya.com/blog/2019/02/flair-nlp-library-python/
+
+- https://huggingface.co/flair/ner-english
 
 
 ## AWS Partner Certification Readiness:
