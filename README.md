@@ -12,13 +12,9 @@ https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3
 - https://huggingface.co/flair/ner-english
 
 
-## AWS Partner Certification Readiness:
-
-Developer - Associate
-
-Program Kickoff:July 10, 2023 | 9:00AM - 10:00AM PDT
-https://www.twitch.tv/aws_namer_programs
-
 
 ## PPT Class link
 https://distill.pub/2016/misread-tsne/
+
+## iNeuron Statistics Notes
+https://github.com/iNeuron-Pvt-Ltd/statistics-documentation/tree/main
