@@ -12,3 +12,6 @@ https://github.com/iNeuronai/oops-day-2
 ## 27th ,28th and 29th Jan Pandas class
 
 https://github.com/iNeuronai/pandas/tree/main
+
+## 4th Feb Numpy and graph
+https://github.com/sudhanshu1322/num
