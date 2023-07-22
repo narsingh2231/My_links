@@ -18,3 +18,10 @@ https://github.com/sudhanshu1322/num
 
 ## 5th Feb FlaskAPI
 https://github.com/krishnaik06/FlaskLive
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+## 22 July Live class 
+https://github.com/sunnysavita10/deep_learning
