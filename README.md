@@ -11,7 +11,8 @@ https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3
 
 - https://huggingface.co/flair/ner-english
 
-
+##
+https://github.com/AkashSingh3031
 
 ## PPT Class link
 https://distill.pub/2016/misread-tsne/
