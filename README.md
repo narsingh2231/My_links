@@ -18,3 +18,6 @@ https://distill.pub/2016/misread-tsne/
 
 ## iNeuron Statistics Notes
 https://github.com/iNeuron-Pvt-Ltd/statistics-documentation/tree/main
+
+## data science interview QnA
+https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
