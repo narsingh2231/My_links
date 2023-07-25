@@ -22,7 +22,7 @@ https://github.com/krishnaik06/FlaskLive
 ## 11th Feb Web Scrapping
 https://github.com/iNeuronai/scrapper
 
-## 12th feb image scrapping
+## 12th Feb image scrapping
 https://github.com/iNeuronai/scrapper1
 
 ## 12th March EDA
