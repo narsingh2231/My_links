@@ -25,6 +25,9 @@ https://github.com/iNeuronai/scrapper
 ## 12th feb image scrapping
 https://github.com/iNeuronai/scrapper1
 
+## 12th March EDA
+https://github.com/sunnysavita10/Statistics-With-Python-TheCompleteGuide
+
 
 -------------------------------------------------------------------------------------------------------
 ## 22 July Live class 
