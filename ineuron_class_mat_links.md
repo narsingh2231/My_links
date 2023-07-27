@@ -7,9 +7,7 @@ https://github.com/iNeuronai/oops-day-2
 
 
 
-## 21st Jan
-
-## 27th ,28th and 29th Jan Pandas class
+## 21st Jan, 27th ,28th and 29th Jan Pandas class
 
 https://github.com/iNeuronai/pandas/tree/main
 
